@@ -6,7 +6,7 @@ import plotly.express as px
 
 image = Image.open('elucidata-logo.png')
 st.image(image)
-st.title("Elucidata practical assesment task")  # title 
+st.title("I love coding !")  # title 
 st.header("A web application to develop graphical plots") #sub header of the web app
 st.write("**Select to view datasets :**")
 
